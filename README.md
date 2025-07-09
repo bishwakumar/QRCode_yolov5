@@ -49,9 +49,9 @@ This project provides a complete pipeline for detecting QR codes in PDF document
   - 68 images, 80 QR code instances
 - **Visual Results:**
   - *Ground Truth Labels:*
-    ![Validation Batch 1 Labels](runs/train/exp19/val_batch1_labels.jpg)
+    ![Validation Batch 1 Labels](val_batch1_labels.jpg)
   - *Predicted Detections:*
-    ![Validation Batch 1 Predictions](runs/train/exp19/val_batch1_pred.jpg)
+    ![Validation Batch 1 Predictions](val_batch1_pred.jpg)
 
 ---
 
