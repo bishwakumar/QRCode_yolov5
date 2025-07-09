@@ -1,0 +1,13 @@
+train: ../Dataset/train/images
+val: ../Dataset/valid/images
+
+nc: 1
+names: ['QRCode']
+
+
+# roboflow:
+#   workspace: qrcode-u5mjm
+#   project: qr-dataset
+#   version: 1
+#   license: MIT
+#   url: https://universe.roboflow.com/qrcode-u5mjm/qr-dataset/dataset/1

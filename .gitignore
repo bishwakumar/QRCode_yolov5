@@ -63,33 +63,7 @@ coverage.xml
 Thumbs.db
 Desktop.ini
 
-# YOLOv5/ML specific
-runs/
-output_decoded/
-output_detected/
-results.txt
-*.pt
-*.pth
-*.onnx
-*.ckpt
-*.h5
-*.tflite
-*.mlmodel
-*.pb
-*.engine
-*.trt
-*.npy
-*.npz
-*.log
-*.csv
 
-# Datasets
-Dataset/
-!Dataset/README.*
-
-# Test images and outputs
-test_images/
-!test_images/README.*
 
 # PDF/image crops
 crops/
